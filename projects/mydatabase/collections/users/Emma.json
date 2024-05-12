@@ -1,0 +1,12 @@
+{
+	"name": "Emma",
+	"age": 30,
+	"contact": "9898765432",
+	"company": "Facebook",
+	"address": {
+		"city": "Hyderabad",
+		"state": "Telangana",
+		"country": "India",
+		"pincode": 500001
+	}
+}

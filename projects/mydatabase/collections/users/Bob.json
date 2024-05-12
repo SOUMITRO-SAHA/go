@@ -1,0 +1,12 @@
+{
+	"name": "Bob",
+	"age": 28,
+	"contact": "9765432109",
+	"company": "Amazon",
+	"address": {
+		"city": "Delhi",
+		"state": "Delhi",
+		"country": "India",
+		"pincode": 110001
+	}
+}

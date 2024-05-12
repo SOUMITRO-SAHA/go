@@ -1,0 +1,12 @@
+{
+	"name": "David",
+	"age": 35,
+	"contact": "9876543210",
+	"company": "Apple",
+	"address": {
+		"city": "Pune",
+		"state": "Maharashtra",
+		"country": "India",
+		"pincode": 411001
+	}
+}

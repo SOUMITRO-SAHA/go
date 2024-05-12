@@ -1,0 +1,12 @@
+{
+	"name": "Alice",
+	"age": 25,
+	"contact": "9876543210",
+	"company": "Microsoft",
+	"address": {
+		"city": "Mumbai",
+		"state": "Maharashtra",
+		"country": "India",
+		"pincode": 400001
+	}
+}
